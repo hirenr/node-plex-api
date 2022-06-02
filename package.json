@@ -13,6 +13,7 @@
     "react-native": "^0.68.2",
     "react-native-os": "^1.2.6",
     "react-native-util": "^1.0.2",
+    "react-native-xml2js": "^1.0.3",
     "request": "^2.87.0",
     "url": "^0.11.0",
     "util": "^0.12.4",
@@ -21,7 +22,8 @@
   },
   "react-native": {
     "os": "react-native-os",
-    "util": "react-native-util"
+    "util": "react-native-util",
+    "xml2js" : "react-native-xml2js"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
