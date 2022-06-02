@@ -12,7 +12,9 @@
     "react-native-os": "^1.2.6",
     "request": "^2.87.0",
     "uuid": "^3.0.0",
-    "xml2js": "0.4.16"
+    "xml2js": "0.4.16",
+    "url":"^0.11.0",
+    "util":"^0.12.4"
   },
   "react-native": {
     "os": "react-native-os"
