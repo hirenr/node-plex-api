@@ -10,14 +10,16 @@
     "plex-api-credentials": "3.0.1",
     "plex-api-headers": "1.1.0",
     "react-native-os": "^1.2.6",
+    "react-native-util": "^1.0.2",
     "request": "^2.87.0",
-    "uuid": "^3.0.0",
-    "xml2js": "0.4.16",
     "url": "^0.11.0",
-    "util": "^0.12.4"
+    "util": "^0.12.4",
+    "uuid": "^3.0.0",
+    "xml2js": "0.4.16"
   },
   "react-native": {
-    "os": "react-native-os"
+    "os": "react-native-os",
+    "util": "react-native-util"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
