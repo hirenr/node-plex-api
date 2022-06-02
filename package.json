@@ -7,8 +7,10 @@
     "test": "test"
   },
   "dependencies": {
+    "events": "^3.3.0",
     "plex-api-credentials": "3.0.1",
     "plex-api-headers": "1.1.0",
+    "react-native": "^0.68.2",
     "react-native-os": "^1.2.6",
     "react-native-util": "^1.0.2",
     "request": "^2.87.0",
