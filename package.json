@@ -20,7 +20,6 @@
     "xml2js": "0.4.16"
   },
   "react-native": {
-    "os": "react-native-os",
     "util": "react-native-util",
     "xml2js": "react-native-xml2js"
   },
