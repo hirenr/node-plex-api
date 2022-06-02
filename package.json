@@ -45,5 +45,8 @@
     "node": ">=8.0"
   },
   "author": "Hiren Ruchandani <hiren@ruchandani.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
