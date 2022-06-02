@@ -1,6 +1,6 @@
 {
   "name": "@hrn/plex-api",
-  "version": "5.3.6",
+  "version": "5.3.7",
   "description": "Simple wrapper for querying against HTTP API on the Plex Media Server",
   "main": "lib/api.js",
   "directories": {
@@ -23,7 +23,7 @@
   "react-native": {
     "os": "react-native-os",
     "util": "react-native-util",
-    "xml2js" : "react-native-xml2js"
+    "xml2js": "react-native-xml2js"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
