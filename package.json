@@ -7,18 +7,15 @@
     "test": "test"
   },
   "dependencies": {
-
     "plex-api-credentials": "3.0.1",
     "plex-api-headers": "1.1.0",
-    "request": "^2.87.0",
-    "uuid": "^3.0.0",
-    "xml2js": "0.4.16",
-
-    
+    "react-native": "^0.68.2",
     "react-native-os": "^1.2.6",
     "react-native-util": "^1.0.2",
-    "react-native-xml2js": "^1.0.3"
-    
+    "react-native-xml2js": "^1.0.3",
+    "request": "^2.87.0",
+    "uuid": "^3.0.0",
+    "xml2js": "0.4.16"
   },
   "react-native": {
     "util": "react-native-util",
